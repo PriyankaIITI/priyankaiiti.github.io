@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my page.
 
-My name is Priyanka Choudhary. I am a Ph.D. scholar in the Department of Computer Science and Engineering at the Indian Institute of Technology (IIT) Indore. Under the supervision of [Dr. Somnath Dey](https://somnathd.wixsite.com/somnath), my research concentrates on the applications of autonomous vehicles. I utilize a combination of computer vision, machine learning, deep learning, and artificial intelligence in my work.
+My name is Priyanka Choudhary. I am a Ph.D. scholar in the Department of Computer Science and Engineering at the Indian Institute of Technology (IIT) Indore. Under the supervision of [Prof. Somnath Dey](https://somnathd.wixsite.com/somnath), my research concentrates on the applications of autonomous vehicles. I utilize a combination of computer vision, machine learning, deep learning, and artificial intelligence in my work.
 
 My primary goal is to enhance how camera can understand and analyze visual information, particularly for advanced driver assistance systems, but my research has broader implications for automation across various fields. I am passionate about coding, developing innovative solutions, participating in tech communities, and meeting new people.
 

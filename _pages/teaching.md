@@ -19,7 +19,7 @@ author_profile: true
 
 # Research Assistant (IIT Indore)
 
-I am currently assisting and/or have assisted [Dr. Somnath Dey](https://somnathd.wixsite.com/somnath) in supervising following students:
+I am currently assisting and/or have assisted [Prof. Somnath Dey](https://somnathd.wixsite.com/somnath) in supervising following students:
 * 2 undergraduate student - Autumn '25  
 * 2 undergraduate interns - Spring '25  (Semester break)
 * 4 undergraduate interns - Oct.' 24 (Online)  
