@@ -5,5 +5,5 @@ authors: '<b>[Priyanka Choudhary](https://scholar.google.com/citations?user=y7iF
 excerpt: 'This paper proposes a novel feature-based Generative Adversarial Network (GAN) to regenerate occluded traffic signs to improve detection accuracy. The GAN-generated features are fused with the Faster R-CNN-generated features. The architecture of GAN is tiny and integrated at the feature level within Faster R-CNN to minimize computational overhead.'
 date: 2025-09-30
 venue: 'IEEE 101st Vehicular Technology Conference (VTC2025-Spring), Oslo'
-paperurl: "https://www.sciencedirect.com/science/article/pii/S0957417425024133"
+paperurl: "https://ieeexplore.ieee.org/abstract/document/11174525"
 ---
